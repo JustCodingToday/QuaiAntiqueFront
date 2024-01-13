@@ -6,9 +6,13 @@ html{
     min-height: 100%;
 }
 
-footer .footer{
+main{
+    margin-bottom: 250px;
+}
+
+footer.footer{
     padding: 15px; 
     position: absolute;
     bottom: 0;
-    width: 100%; 
+    width: 100%;
 }
